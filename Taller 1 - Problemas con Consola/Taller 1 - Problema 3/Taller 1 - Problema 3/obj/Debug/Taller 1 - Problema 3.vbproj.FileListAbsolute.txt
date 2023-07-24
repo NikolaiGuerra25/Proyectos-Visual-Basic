@@ -1,0 +1,9 @@
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\bin\Debug\Taller 1 - Problema 3.exe.config
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\bin\Debug\Taller 1 - Problema 3.exe
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\bin\Debug\Taller 1 - Problema 3.pdb
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\bin\Debug\Taller 1 - Problema 3.xml
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\obj\Debug\Taller_1___Problema_3.Resources.resources
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\obj\Debug\Taller 1 - Problema 3.vbproj.GenerateResource.cache
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\obj\Debug\Taller 1 - Problema 3.exe
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\obj\Debug\Taller 1 - Problema 3.xml
+C:\Users\nikol\source\repos\Taller 1 - Problema 3\Taller 1 - Problema 3\obj\Debug\Taller 1 - Problema 3.pdb

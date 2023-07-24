@@ -1,0 +1,10 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\bin\Debug\Problema 2.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\bin\Debug\Problema 2.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\bin\Debug\Problema 2.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\bin\Debug\Problema 2.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema_2.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema_2.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema 2.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema 2.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema 2.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 2\obj\Debug\Problema 2.pdb

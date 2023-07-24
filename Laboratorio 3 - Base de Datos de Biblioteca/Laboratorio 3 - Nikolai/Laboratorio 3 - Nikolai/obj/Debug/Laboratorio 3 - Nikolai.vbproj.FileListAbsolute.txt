@@ -1,0 +1,17 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Debug\Laboratorio 3 - Nikolai.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Debug\Laboratorio 3 - Nikolai.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Debug\Laboratorio 3 - Nikolai.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Debug\Laboratorio 3 - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Ingresar.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Actualizar.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Borrar.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Buscar.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Version.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Ayuda.resources

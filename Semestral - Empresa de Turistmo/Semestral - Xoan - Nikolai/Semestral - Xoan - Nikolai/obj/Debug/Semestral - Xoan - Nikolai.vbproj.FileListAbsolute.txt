@@ -1,0 +1,21 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\bin\Debug\Semestral - Xoan - Nikolai.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\bin\Debug\Semestral - Xoan - Nikolai.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\bin\Debug\Semestral - Xoan - Nikolai.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\bin\Debug\Semestral - Xoan - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.Login.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.colaboradorMenu.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.Clientes.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral - Xoan - Nikolai.vbproj.ResolveComReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.promColaborador.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.Proveedores.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.servColaborador.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.inventarios.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.promAdmin.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.adminMenu.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Semestral\Semestral - Xoan - Nikolai\Semestral - Xoan - Nikolai\obj\Debug\Semestral___Xoan___Nikolai.servAdmin.resources

@@ -1,0 +1,681 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Semestral - Xoan - Nikolai
+</name>
+</assembly>
+<members>
+<member name="T:Semestral___Xoan___Nikolai.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Semestral___Xoan___Nikolai.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Semestral___Xoan___Nikolai.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Semestral___Xoan___Nikolai.My.Resources.Resources.Logo_moderno_tienda_blanco_y_negro_removebg_preview_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet.datosClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet.datosClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet.datosClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.datosClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1.datosClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1.datosClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1.datosClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.datosClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2.datosClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2.datosClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2.datosClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.datosClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3.promocionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3.promocionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3.promocionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.promocionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4.proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4.proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4.proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5.serviciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5.serviciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5.serviciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.serviciosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6.inventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6.inventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6.inventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.inventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7.promocionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7.promocionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7.promocionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.promocionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8.promocionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8.promocionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8.promocionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.promocionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9.serviciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9.serviciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9.serviciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.serviciosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.UpdateAll(Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Semestral___Xoan___Nikolai._Semestral___HerramientasDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

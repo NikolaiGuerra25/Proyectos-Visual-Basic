@@ -1,0 +1,14 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\bin\Debug\Taller 3 - Nikolai Guerra.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\bin\Debug\Taller 3 - Nikolai Guerra.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\bin\Debug\Taller 3 - Nikolai Guerra.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\bin\Debug\Taller 3 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller 3 - Nikolai Guerra.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller_3___Nikolai_Guerra.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller_3___Nikolai_Guerra.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller 3 - Nikolai Guerra.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller 3 - Nikolai Guerra.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller 3 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller 3 - Nikolai Guerra.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller_3___Nikolai_Guerra.Problema2.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller_3___Nikolai_Guerra.Problema3.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Taller 3 - Nikolai Guerra\obj\Debug\Taller_3___Nikolai_Guerra.Problema1.resources

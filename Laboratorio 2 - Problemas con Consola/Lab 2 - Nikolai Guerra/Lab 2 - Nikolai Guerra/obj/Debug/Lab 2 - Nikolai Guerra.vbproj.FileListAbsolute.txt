@@ -1,0 +1,32 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema2.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Laboratorios\Laboratorio 2\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema3.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.exe.config
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.exe
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.pdb
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\bin\Debug\Lab 2 - Nikolai Guerra.xml
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbproj.AssemblyReference.cache
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Form1.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Resources.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema1.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema2.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema3.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Problema4.resources
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbproj.GenerateResource.cache
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.vbproj.CoreCompileInputs.cache
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.exe
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.xml
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab 2 - Nikolai Guerra.pdb
+C:\Users\Jahir\Documents\Programacion 3\Nueva carpeta\Nueva carpeta\Lab 2 - Nikolai Guerra\Lab 2 - Nikolai Guerra\obj\Debug\Lab_2___Nikolai_Guerra.Tips.resources

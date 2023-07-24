@@ -1,0 +1,14 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\bin\Debug\Final.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\bin\Debug\Final.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\bin\Debug\Final.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\bin\Debug\Final.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.Problema1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.Problema2.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.Problema3.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Final\obj\Debug\Final.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\bin\Debug\Problema 3.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema 3.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema_3.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema_3.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema 3.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema 3.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema 3.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 3\Taller 3 - Nikolai Guerra\Problema 3\obj\Debug\Problema 3.pdb

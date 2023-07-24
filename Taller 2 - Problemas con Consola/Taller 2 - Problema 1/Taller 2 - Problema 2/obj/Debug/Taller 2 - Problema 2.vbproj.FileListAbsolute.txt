@@ -1,0 +1,9 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\bin\Debug\Taller 2 - Problema 2.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\bin\Debug\Taller 2 - Problema 2.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\bin\Debug\Taller 2 - Problema 2.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\bin\Debug\Taller 2 - Problema 2.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\obj\Debug\Taller_2___Problema_2.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\obj\Debug\Taller 2 - Problema 2.vbproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\obj\Debug\Taller 2 - Problema 2.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\obj\Debug\Taller 2 - Problema 2.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Talleres\Taller 2\Taller 2 - Problema 1\Taller 2 - Problema 2\obj\Debug\Taller 2 - Problema 2.pdb

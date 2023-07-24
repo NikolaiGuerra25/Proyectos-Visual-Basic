@@ -1,0 +1,23 @@
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\bin\Debug\Parcial 2 - Nikolai - Xoan.exe.config
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\bin\Debug\Parcial 2 - Nikolai - Xoan.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\bin\Debug\Parcial 2 - Nikolai - Xoan.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\bin\Debug\Parcial 2 - Nikolai - Xoan.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.exe
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.xml
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.pdb
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.menuCliente.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.menuAdmin.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.conCliente.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.verConCliente.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.manageConAdmin.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.verConAdmin.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial 2 - Nikolai - Xoan.vbproj.ResolveComReference.cache
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.expExcel.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.Main.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.acercaDe.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.guiaSyS.resources
+C:\Users\nikol\OneDrive\Documentos\Herramientas de Programacion 3\Parciales\Parcial 2\Parcial 2 - Nikolai - Xoan\Parcial 2 - Nikolai - Xoan\obj\Debug\Parcial_2___Nikolai___Xoan.empresaInfo.resources
